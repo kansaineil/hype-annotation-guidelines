@@ -114,4 +114,31 @@ Otherwise → **not hype**
 
 ---
 
+### Annotated examples for *accurate*
+
+#### Not hype
+
+| Full sentence (as provided) | Interpretation (linked to criteria) |
+|-----------------------------|-------------------------------------|
+| The lack of **accurate** dosimetric measurements causes uncertainty in exposure assessment … | Limitation framing; accuracy required for meaning → 3e Relative + Not gratuitous (3a) |
+| Our goal is to provide a more **accurate** picture of the significantly populated conformations … | Comparative improvement → 3e Relative / Hedged |
+| The petrosal sinus sampling examination is the single most **accurate** test both for | Diagnostic performance grounded in measurement → 3d Grounds |
+| Long-term objectives will include a more **accurate** determination of the number of genes | Comparative framing → 3e Relative |
+| It is **accurate** to within a few percent and has a relative precision of | Empirical precision stated → 3d Grounds |
+| The device was equally **accurate** regardless of years of experience or level of training . | Comparative → 3e Relative |
+| Tissue changes during surgery render the preoperative scans less and less **accurate** as the surgery progresses . | Negative deterioration → 3e Relative |
+
+---
+
+#### Hype
+
+| Full sentence (as provided) | Interpretation (linked to criteria) |
+|-----------------------------|-------------------------------------|
+| Our goal of the proposed research is to develop a highly **accurate** and reproducible method to assess the severity of | Amplified (3b) + Stacked (3c) + promotional future claim |
+| Our goal is to develop a methodology for **accurate** diagnosis of the fertility of human semen | Outcome noun presupposes correctness → Gratuitous (3a) + forward-promotional |
+| By tagging areas on the 3D image , **accurate** determination of changes in important criteria such as anatomic | Outcome noun presupposes correctness + stacked with important → 3a + 3c |
+| Provide **accurate** , timely , comprehensive , and standardized postmortem examinations (co-ordinated) | Strong stacking cluster → 3c Broader context (Hype unless strong justification follows) |
+
+---
+
 [Back to Rigor](index.md) | [Back to top](#accurate--annotation-guidance-summary)
