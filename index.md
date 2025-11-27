@@ -161,8 +161,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 <a id="step3e"></a>
 ### Step 3e. Relative / Hedged
 
-**Question:**  
-Is the framing relative or hedged? Is the use of the adjective limited, qualified, or made conditional rather than presented as universally true?
+**Question:** Is the framing relative or hedged? Is the use of the adjective limited, qualified, or made conditional rather than presented as universally true?
 
 **YES → NOT HYPE**
 
