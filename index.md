@@ -64,13 +64,12 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 Does the adjective evaluate the work rather than simply describe it?
 
 **YES → Potentially HYPE**  
-- The adjective adds an assessment (e.g. importance, success, strength, credibility).  
-- The claim sounds better because the adjective is present.  
 → Continue to Step 2.
 
 **NO → Likely NOT HYPE**  
-- The adjective provides technical, domain-specific, or literal information (including proper nouns).  
 → Code as NOT HYPE.
+
+[↩ Back to overview](#overview-of-annotation-steps)
 
 ---
 
@@ -81,10 +80,11 @@ Does the adjective evaluate the work rather than simply describe it?
 Is the adjective hyperbolic?
 
 **YES → HYPE**  
-- Extreme claim.  
-- Relatively closed class of words (e.g. *revolutionary*, *groundbreaking*, *superb*, *tremendous*).
+- Relatively closed class (e.g., *revolutionary*, *groundbreaking*, *superb*, *tremendous*)
 
 **NO →** Continue to Step 3a.
+
+[↩ Back to overview](#overview-of-annotation-steps)
 
 ---
 
@@ -95,10 +95,11 @@ Is the adjective hyperbolic?
 Is the adjective gratuitous, adding little to the propositional content?
 
 **YES → HYPE**  
-- Removing the adjective does not change the propositional content of the sentence.
+- Removing the adjective does not change meaning
 
-**NO → NOT HYPE**  
-- Removing it would substantially alter the propositional content.
+**NO → NOT HYPE**
+
+[↩ Back to overview](#overview-of-annotation-steps)
 
 ---
 
@@ -108,12 +109,7 @@ Is the adjective gratuitous, adding little to the propositional content?
 **Question:**  
 Is the strength of the adjective amplified?
 
-**YES → HYPE**  
-- Strength increased by:  
-  - modifiers (e.g. *highly*, *very*, *completely*, *fully*, *extremely*), and/or  
-  - stance verbs with stronger assertiveness (e.g. *demonstrate* vs. *show* vs. *suggest*).
-
-**Generic patterns:**
+**YES → HYPE**
 
 | Pattern type | Generic pattern |
 |--------------|----------------|
@@ -122,30 +118,29 @@ Is the strength of the adjective amplified?
 
 **NO →** Continue to Step 3c.
 
+[↩ Back to overview](#overview-of-annotation-steps)
+
 ---
 
 <a id="step3c"></a>
 ### Step 3c. Grounds
 
 **Question:**  
-Are grounds (i.e. justifications) given?
+Are grounds (i.e., justifications) given?
 
-**YES → NOT HYPE**  
-- Justification provided, either:  
-  - explicit (reason clause), or  
-  - implicit (conditional, gap statement, etc.).
-
-**Generic patterns:**
+**YES → NOT HYPE**
 
 | Pattern type | Generic pattern |
 |--------------|----------------|
 | Explicit justification | “X is [adjective] because …” |
-| Conditional justification | “If …, then X is [adjective]” |
+| Conditional justification | “If …, then X becomes [adjective]” |
 | Procedural/evidential justification | “Using method M, X is [adjective]” |
 | Contrastive justification | “Unlike previous approaches, X is [adjective]” |
 | Reference to assessment | “Analysis shows X is [adjective]” |
 
 **NO →** Continue to Step 3d.
+
+[↩ Back to overview](#overview-of-annotation-steps)
 
 ---
 
@@ -156,10 +151,12 @@ Are grounds (i.e. justifications) given?
 Are broader context signals present?
 
 **YES → HYPE**  
-- The adjective is stacked with other hype candidates.  
-- Other promotional signals are present in the local context.
+- Stacking with other hype adjectives  
+- Promotional context nearby
 
 **NO →** Continue to Step 3e.
+
+[↩ Back to overview](#overview-of-annotation-steps)
 
 ---
 
@@ -169,11 +166,7 @@ Are broader context signals present?
 **Question:**  
 Is the framing relative or hedged?
 
-**YES → NOT HYPE**  
-- The claim is relative, not absolute.  
-- The adjective is used in a comparative or cautious way (e.g. *more*, *less*, *lack of*, *may*, *can*).
-
-**Generic patterns:**
+**YES → NOT HYPE**
 
 | Pattern type | Generic pattern |
 |--------------|----------------|
@@ -183,6 +176,6 @@ Is the framing relative or hedged?
 | Modal hedging | “The approach may be [adjective]” |
 | Scope restriction | “For specific cases, results are relatively [adjective]” |
 
-**NO →**  
-- The adjective is presented absolutely.  
-→ Consider hype based on the cumulative effect of all criteria.
+**NO →** Consider cumulative effect of criteria
+
+[↩ Back to overview](#overview-of-annotation-steps)
