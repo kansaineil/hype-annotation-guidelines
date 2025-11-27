@@ -5,11 +5,14 @@ nav_order: 1
 
 # Hype Annotation Guidelines
 
-These guidelines help annotators decide whether an adjective, in a given context, is being used promotionally or not. The following sections provide (i) an overview of the general annotation criteria, (ii) explanations of the criteria and underlying rationale, and (iii) links to adjective-specific guidance with examples where more detailed interpretation is required.
+These guidelines help annotators decide whether an adjective, in a given context, is being used promotionally or not. The following sections provide:  
+(i) an overview of the general annotation criteria,  
+(ii) explanations of the criteria and underlying rationale, and  
+(iii) links to adjective-specific guidance with examples where more detailed interpretation is required.
 
 ---
 
-## (i) Overview of annotation criteria
+## 1. Overview of annotation criteria {#overview}
 
 | Order | Decision | Type | Effect |
 |------:|----------|------|--------|
@@ -47,11 +50,12 @@ Counter-signals:
  3d Grounds
  3e Relative / Hedged
 
+Final decision:
 If hype-increasing > hype-reducing → HYPE
 Else → NOT HYPE
 ``` 
 
-### (ii) Explanations of the criteria
+## 2. Explanation of the criteria
 
 Each step below corresponds to the steps in the table above. Follow them in order.
 
@@ -68,7 +72,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 **NO → Likely NOT HYPE**  
 → Code as NOT HYPE.
 
-[Back to overview](# (i) Overview-of-annotation-criteria)
+[Back to overview](#overview)
 
 ---
 
@@ -82,7 +86,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **NO →** Continue to Step 3a.
 
-[Back to overview](# (i) Overview-of-annotation-criteria)
+[Back to overview](#overview)
 
 ---
 
@@ -96,7 +100,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **NO → NOT HYPE**
 
-[Back to overview](# (i) Overview-of-annotation-criteria)
+[Back to overview](#overview)
 
 ---
 
@@ -114,7 +118,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **NO →** Continue to Step 3c.
 
-[Back to overview](# (i) Overview-of-annotation-criteria)
+[Back to overview](#overview)
 
 ---
 
@@ -135,7 +139,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **NO →** Continue to Step 3d.
 
-[Back to overview](# (i) Overview-of-annotation-criteria)
+[Back to overview](#overview)
 
 ---
 
@@ -150,7 +154,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **NO →** Continue to Step 3e.
 
-[Back to overview](# (i) Overview-of-annotation-criteria)
+[Back to overview](#overview)
 
 ---
 
@@ -172,16 +176,11 @@ Is the framing relative or hedged?
 
 **NO →** Consider cumulative effect of criteria
 
-[Back to overview](# (i) Overview-of-annotation-criteria)
+[Back to overview](#overview)
 
-## (iii) Adjective-specific guidance
+## 3. Adjective specific guidance
 
-For detailed guidance where interpretation depends on context, see the category and adjective pages below.
-
-These include:
-- Notes on typical promotional vs. descriptive uses
-- Common justification or hedging patterns
-- Example sentences for consistent annotation
+For guidance on specifc adjectives, see the category and adjective pages below.
 
 ### Browse by category
 
