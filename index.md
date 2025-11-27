@@ -5,11 +5,11 @@ nav_order: 1
 
 # Hype Annotation Guidelines
 
-These guidelines help annotators decide whether an adjective, in a given context, is being used promotionally or not. The following sections provide (i) general decision criteria that apply to all adjectives, (ii) explanations of the criteria and underlying rationale, and (iii) adjective-specific guidance with examples where more detailed interpretation is required.
+These guidelines help annotators decide whether an adjective, in a given context, is being used promotionally or not. The following sections provide (i) an overview of the general annotation criteria, (ii) explanations of the criteria and underlying rationale, and (iii) links to adjective-specific guidance with examples where more detailed interpretation is required.
 
 ---
 
-## Overview of annotation steps
+## Overview of annotation criteria
 
 | Order | Decision | Type | Effect |
 |------:|----------|------|--------|
@@ -23,7 +23,7 @@ These guidelines help annotators decide whether an adjective, in a given context
 
 ---
 
-### Decision flow (priority logic)
+### (i) Decision flow (priority logic)
 
 ```text
 Value-judgement?
@@ -51,7 +51,7 @@ If hype-increasing > hype-reducing → HYPE
 Else → NOT HYPE
 ``` 
 
-### Step-by-step decision guidance
+### (ii) Explanations of the criteria
 
 Each step below corresponds to the steps in the table above. Follow them in order.
 
@@ -179,3 +179,23 @@ Is the framing relative or hedged?
 **NO →** Consider cumulative effect of criteria
 
 [↩ Back to overview](#overview-of-annotation-steps)
+
+## (iii) Adjective-specific guidance
+
+For detailed guidance where interpretation depends on context, see the category and adjective pages below.
+
+These include:
+- Notes on typical promotional vs. descriptive uses
+- Common justification or hedging patterns
+- Example sentences for consistent annotation
+
+### Browse by category
+
+- [Importance](Importance/index.md)
+- [Novelty](Novelty/index.md)
+- [Rigor](Rigor/index.md)
+- [Scale](Scale/index.md)
+- [Utility](Utility/index.md)
+- [Quality](Quality/index.md)
+- [Attitude](Attitude/index.md)
+- [Problem](Problem/index.md)
