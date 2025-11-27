@@ -39,7 +39,7 @@ Some nouns **require** correctness for meaning; others make *accurate* **stylist
 |------------------|----------------|
 | 3b Amplified + 3c Broader context - boosted + stacked | Our goal of the proposed research is to develop a highly **accurate** and reproducible method to assess the severity of |
 | 3a Gratuitous - outcome noun presupposes correctness | Our goal is to develop a methodology for **accurate** diagnosis of the fertility of human semen |
-| 3a Gratuitous + 3c Broader context - presupposed + stacked | By tagging areas on the 3D image , **accurate** determination of changes in important criteria such as anatomic |
+| 3a Gratuitous + 3c Broader context - presupposed + proximity | By tagging areas on the 3D image , **accurate** determination of changes in important criteria such as anatomic |
 | 3c Broader context - stacked with multiple evaluative adjectives | Provide **accurate** , timely , comprehensive , and standardized postmortem examinations |
 
 ---
