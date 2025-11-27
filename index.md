@@ -9,10 +9,6 @@ These guidelines help annotators decide whether an adjective, in a given context
 
 ## Overview of annotation steps
 
-> Logic:  
-> VALUE-JUDGEMENT → HYPERBOLIC →  
-> PARALLEL DIMENSIONS: GRATUITOUS / AMPLIFIED / GROUNDS / BROADER CONTEXT / RELATIVE–HEDGED
-
 | Step | Decision | Key Check |
 |------|----------|-----------|
 | **1** | [Value-judgement](#step1) | Does it evaluate the work rather than merely describe it? |
@@ -23,27 +19,11 @@ These guidelines help annotators decide whether an adjective, in a given context
 | **3d** | [Broader context](#step3d) | Stacking or surrounding promotional framing present? |
 | **3e** | [Relative / Hedged](#step3e) | Comparison / negation / uncertainty framing (more, less, improved, lack of, may, can…) |
 
-> Logic:  
-> VALUE-JUDGEMENT → HYPERBOLIC →  
-> PARALLEL DIMENSIONS: GRATUITOUS / AMPLIFIED / GROUNDS / BROADER CONTEXT / RELATIVE–HEDGED
-
-## Categories
-
-- [Importance](Importance/index.md)
-- [Novelty](Novelty/index.md)
-- [Rigor](Rigor/index.md)
-- [Scale](Scale/index.md)
-- [Utility](Utility/index.md)
-- [Quality](Quality/index.md)
-- [Attitude](Attitude/index.md)
-- [Problem](Problem/index.md)
-
 ---
 
 ## Step-by-step decision guidance
 
-Each step below corresponds to the steps in the table above.  
-Follow them in order.
+Each step below corresponds to the steps in the table above. Follow them in order.
 
 ---
 
@@ -178,3 +158,15 @@ Is the framing relative or hedged?
 → Consider hype based on cumulative effect of criteria
 
 ---
+
+## Adjective categories
+
+- [Importance](Importance/index.md)
+- [Novelty](Novelty/index.md)
+- [Rigor](Rigor/index.md)
+- [Scale](Scale/index.md)
+- [Utility](Utility/index.md)
+- [Quality](Quality/index.md)
+- [Attitude](Attitude/index.md)
+- [Problem](Problem/index.md)
+
