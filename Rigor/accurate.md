@@ -7,13 +7,13 @@ parent: Rigor
 
 | Criteria | Typical behaviour / interpretation |
 |---------:|----------------------------------|
-| **1. Value-judgement** | Almost always evaluative (implies correctness / reliability) |
-| **2. Hyperbolic** | Not inherently extreme; becomes hype only when boosted |
-| **3a. Gratuitous** | Potentially redundant with nouns that presuppose correctness |
-| **3b. Amplified** | Often intensified by boosters (highly, very) or stance verbs |
-| **3c. Broader context** | Frequently appears in stacked adjective phrases |
-| **3d. Grounds** | Claims often justified by evidence or evaluation (reduces hype) |
-| **3e. Relative / Hedged** | Comparatives or conditional framing reduce hype |
+| **1. Value-judgement** | Almost always evaluative as it implies correctness / reliability |
+| **2. Hyperbolic** | Not inherently hyperbolic |
+| **3a. Gratuitous** | Potentially redundant with nouns that presuppose correctness (see table below) |
+| **3b. Amplified** | Often intensified by boosters (highly, very) |
+| **3c. Broader context** | Often appears in stacked adjective phrases |
+| **3d. Grounds** | Often justified by evidence (accurate to ##%; accurate for X, but not for Y) (reduces hype) |
+| **3e. Relative / Hedged** | Often framed in relative terms (more accurate) (reduce hype) |
 
 ---
 
@@ -23,21 +23,11 @@ Some nouns make *accurate* necessary; others make it potentially gratuitous.
 
 | Noun category | Noun implication | Example nouns | Effect on interpretation |
 |--------------|-----------------|--------------|-------------------------|
-| Degree-variable | Correctness varies by degree | measurement, prediction, estimation | *accurate* adds meaning → not hype |
 | Outcome-entailing | Correctness is presupposed | diagnosis, detection, replication, test | *accurate* may be redundant → can be hype |
 | Borderline | Correctness sometimes implied | data, information, assessment, model | Use other criteria (3b–3e) |
+| Degree-variable | Correctness varies by degree | measurement, prediction, estimation | *accurate* adds meaning → not hype |
 
 > Consult this table when applying **3a. Gratuitous**.
-
----
-
-### Summary instruction
-
-Annotate *accurate* as **hype** only when:
-- It does **not** add meaning (especially with outcome-entailing nouns), or
-- It is **amplified** or **stacked** without justification
-
-Otherwise → **not hype**.
 
 ---
 
