@@ -60,8 +60,9 @@ Counter-signals:
 
 If hype-increasing > hype-reducing → HYPE
 Else → NOT HYPE
+``` 
 
-## Step-by-step decision guidance
+### Step-by-step decision guidance
 
 Each step below corresponds to the steps in the table above. Follow them in order.
 
