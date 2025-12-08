@@ -33,8 +33,6 @@ Some nouns **require** correctness for meaning; others make *accurate* **stylist
 
 ## Annotated examples for *accurate*
 
-### Hype
-
 | Relevant criteria | Comment | Corpus example |
 |------------------|---------|----------------|
 | 3a | gratuitous: "diagnosis"  presupposes correctness | Our goal is to develop a methodology for **accurate** diagnosis of the fertility of human semen |
