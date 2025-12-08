@@ -37,16 +37,16 @@ Some nouns **require** correctness for meaning; others make *accurate* **stylist
 
 | Relevant criteria | Comment | Corpus example |
 |------------------|---------|----------------|
-| 3b; 3c | amplified: “highly”; broader context: “reproducible” | Our goal of the proposed research is to develop a highly **accurate** and reproducible method to assess the severity of |
-| 3a | gratuitous: outcome noun presupposes correctness | Our goal is to develop a methodology for **accurate** diagnosis of the fertility of human semen |
-| 3a; 3c | gratuitous: presupposed noun; broader context: proximity to “important” | By tagging areas on the 3D image , **accurate** determination of changes in important criteria such as anatomic |
-| 3c | broader context: stacked with other evaluative adjectives | Provide **accurate** , timely , comprehensive , and standardized postmortem examinations |
-| 3d | grounds: empirical precision stated | It is **accurate** to within a few percent and has a relative precision of |
-| 3d | grounds: accuracy supported by diagnostic performance | The petrosal sinus sampling examination is the single most **accurate** test both for |
-| 3e | relative: accuracy expressed as a limitation | The lack of **accurate** dosimetric measurements causes uncertainty in exposure assessment … |
-| 3e | relative: improved accuracy in comparison | Our goal is to provide a more **accurate** picture of the significantly populated conformations … |
-| 3e | relative: comparative framing | Long-term objectives will include a more **accurate** determination of the number of genes |
-| 3e | relative: comparison across users | The device was equally **accurate** regardless of years of experience or level of training . |
-| 3e | relative: negative change relative to baseline | Tissue changes during surgery render the preoperative scans less and less **accurate** as the surgery progresses . |
+| 3b; 3c | amplified: “highly”; broader context: stacked with “reproducible” | Our goal of the proposed research is to develop a highly **accurate** and reproducible method to assess the severity of |
+| 3a | gratuitous: "diagnosis"  presupposes correctness | Our goal is to develop a methodology for **accurate** diagnosis of the fertility of human semen |
+| 3a; 3c | gratuitous: "determination" presuposes correctness; broader context: proximity to “important” | By tagging areas on the 3D image , **accurate** determination of changes in important criteria such as anatomic |
+| 3c | broader context: stacked with "timely" and "comprehensive" | Provide **accurate** , timely , comprehensive , and standardized postmortem examinations |
+| 3d | grounds: "to within a few percent" | It is **accurate** to within a few percent and has a relative precision of |
+| 3d | grounds: "the most"; ('single' also hype)| The petrosal sinus sampling examination is the single most **accurate** test both for |
+| 3e | relative: "lack of" | The lack of **accurate** dosimetric measurements causes uncertainty in exposure assessment … |
+| 3e | relative: "more" | Our goal is to provide a more **accurate** picture of the significantly populated conformations … |
+| 3e | relative: "more" | Long-term objectives will include a more **accurate** determination of the number of genes |
+| 3e | relative: "equally" | The device was equally **accurate** regardless of years of experience or level of training . |
+| 3e | relative: "less and less" | Tissue changes during surgery render the preoperative scans less and less **accurate** as the surgery progresses . |
 
 [Back to Rigor](index.md) · [Back to top](#accurate--annotation-guidance-summary)
