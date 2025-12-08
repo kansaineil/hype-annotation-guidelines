@@ -12,8 +12,8 @@ parent: Rigor
 | **3a. Gratuitous** | Potentially redundant with nouns that presuppose correctness (see table below) |
 | **3b. Amplified** | Often intensified by boosters (highly, very) |
 | **3c. Broader context** | Often appears in stacked adjective phrases |
-| <span style="background-color:#f2f2f2;">**3d. Grounds**</span> | <span style="background-color:#f2f2f2;">Often justified by evidence (accurate to ##%) (reduces hype)</span> |
-| <span style="background-color:#f2f2f2;">**3e. Relative / Hedged**</span> | <span style="background-color:#f2f2f2;">Often framed in relative terms ("more accurate") (reduces hype)</span> |
+| **3d. Grounds** | Often justified by evidence (accurate to ##%) (reduces hype) |
+| **3e. Relative / Hedged** | Often framed in relative terms ("more accurate" - comparative framing) (reduce hype) |
 
 ---
 
@@ -41,11 +41,6 @@ Some nouns **require** correctness for meaning; others make *accurate* **stylist
 | 3a | gratuitous: outcome noun presupposes correctness | Our goal is to develop a methodology for **accurate** diagnosis of the fertility of human semen |
 | 3a; 3c | gratuitous: presupposed noun; broader context: proximity to “important” | By tagging areas on the 3D image , **accurate** determination of changes in important criteria such as anatomic |
 | 3c | broader context: stacked with other evaluative adjectives | Provide **accurate** , timely , comprehensive , and standardized postmortem examinations |
-
-### Not hype
-
-| Relevant criteria | Comment | Corpus example |
-|------------------|---------|----------------|
 | 3d | grounds: empirical precision stated | It is **accurate** to within a few percent and has a relative precision of |
 | 3d | grounds: accuracy supported by diagnostic performance | The petrosal sinus sampling examination is the single most **accurate** test both for |
 | 3e | relative: accuracy expressed as a limitation | The lack of **accurate** dosimetric measurements causes uncertainty in exposure assessment … |
