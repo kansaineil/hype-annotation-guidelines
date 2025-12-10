@@ -13,7 +13,7 @@ parent: Importance
 | **3b. Amplified** | Sometimes intensified (e.g. *very*, *highly*, *especially*, *particularly*, *the most*, *more*) **when used to boost persuasive strength**; does **not** count as amplification when indicating insufficiency (e.g. “more compelling evidence is needed”). |
 | **3c. Broader context** | Often appears in stacked hype clusters (e.g. *novel*, *strong*, *unique*) |
 | **3d. Grounds** | Rarely supported by evidential grounds |
-| **3e. Relative / Hedged** | Comparative forms (*more*, *most*) are **not hype when signalling insufficiency** (e.g. *more compelling evidence is needed*) ; rarely hedged |
+| **3e. Relative / Hedged** | Comparative forms (*more*) are **not hype when signalling insufficiency** (e.g. *more compelling evidence is needed*) ; rarely hedged |
 
 ---
 
