@@ -54,6 +54,7 @@ Comparatives indicating insufficiency (*more compelling evidence is needed*) do 
 *In our highly <u>**compelling**</u> preliminary results, we associate the AD-protective minor allele of rs444 with …*  
 *We find these observations to be extremely <u>**compelling**</u> as AD therapies have consistently failed …*  
 *From a public health perspective, there is no more <u>**compelling**</u> crisis in the world today than the HIV epidemic …*
+*This hypothesis becomes even more <u>**compelling**</u> and exciting in light of emerging evidence …*
 
 </details>
 
@@ -88,11 +89,12 @@ Occasionally justified by explicit causal or evidential support.
 ---
 
 ### **3e. Relative / Hedged**  
-Comparatives and negation reduce promotional force. Note that a lack of compelling
+Comparatives and negation reduce promotional force. Note that a 'lack of compelling evidence' (marking of gap) will be annoated as both gratuitious (3a) and relative/hedged (3e).
 
 <details>
 <summary><em>Examples</em></summary>
 
 *Thus, although rodent data suggest that the pathways should be targeted together, the NHP data are <u>**not compelling**</u> for implementing combined therapy .*
+*The lack of <u>**compelling**</u> evidence on the effectiveness of IPV screening programs might be related to lack of system-level changes …*
 
 </details>
