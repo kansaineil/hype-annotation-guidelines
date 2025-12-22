@@ -29,37 +29,30 @@ These guidelines help annotators decide whether an adjective, in a given context
 ### Decision flow (priority logic)
 
 ```text
-**Scoring-based logic**
+Value-judgement?
+ ├── NO → NOT HYPE
+ └── YES
+       │
+       ▼
+Hyperbolic?
+ ├── YES → HYPE
+ └── NO
+       │
+       ▼
+Evaluate Step 3 signals:
 
-1. **Value-judgement**
-   - Present → **+1**
-   - Absent → **0** (stop → **NOT HYPE**)
+Hype-increasing:
+ 3a Gratuitous
+ 3b Amplified
+ 3c Broader context
 
-2. **Hyperbolic**
-   - Present → **override → HYPE** (ignore remaining steps)
+Counter-signals:
+ 3d Grounds
+ 3e Relative / Hedged
 
-3. **Hype-increasing signals**  
-   Each adds **+1**:
-   - **3a. Gratuitous**
-   - **3b. Amplified**
-   - **3c. Broader context**
-
-4. **Counter-signals**  
-   Each subtracts **−1**:
-   - **3d. Grounds**
-   - **3e. Relative / Hedged**
-
----
-
-**Final decision**
-
-- **Total score > 1** → **HYPE**  
-- **Total score ≤ 1** → **NOT HYPE**
-
-**Notes**
-- Value-judgement is a gatekeeper.
-- Hyperbole overrides all other criteria.
-- Grounds and hedging reduce promotional force but do not override hyperbole.
+Final decision:
+If hype-increasing > hype-reducing → HYPE
+Else → NOT HYPE
 ``` 
 
 ## 2. Explanation of the criteria
