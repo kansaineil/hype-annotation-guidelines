@@ -1,5 +1,7 @@
-## **Critical — annotation guidance**
-
+---
+title: Critical
+parent: Importance
+---
 ---
 
 ### **1. Value-judgement**  
