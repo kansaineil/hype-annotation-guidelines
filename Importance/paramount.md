@@ -3,15 +3,92 @@ title: Paramount
 parent: Importance
 ---
 
-# Paramount (Importance)
+---
 
-**Coding rule:**  
-Add initial coding guidance here.
+### **1. Value-judgement**  
+Expresses a **strong value judgement**. Could usually be replaced by more neutral alternative.
 
-### HYPE examples
-- Add examples here.
+<details>
+<summary><em>Examples</em></summary>
 
-### NON-HYPE examples
-- Add examples here.
+*This system will be **paramount** to enabling a continuous learning platform wherein computationally - assisted annotation of PCR / CE assays can be continuously improved and integrated in to clinical research tools and diagnostics .*
+ 
+</details>
 
-[⬅ Back to Importance](./index.md)
+---
+
+### **2. Hyperbolic**  
+Often functions as a **strong evaluative extreme** (near-superlative).  
+Not metaphorical, but typically absolute in force.
+
+<details>
+<summary><em>Examples</em></summary>
+
+*The development of novel therapeutic strategies is  **paramount** .*  
+
+</details>
+
+---
+
+### **3a. Gratuitous**  
+Usually **gratuitous** when modifying nouns that already encode importance  
+(e.g. *importance*, *need*, *significance*, *concern*) - adds emphasis rather than information.
+
+<details>
+<summary><em>Examples</em></summary>
+
+*The **paramount** importance of early detection is widely recognised.*  
+*There is a **paramount** need for further investigation.*
+
+</details>
+
+---
+
+### **3b. Amplified**  
+Rarely amplified; *paramount* typically already encodes maximal strength.
+
+<details>
+<summary><em>Examples</em></summary>
+
+*(amplification uncommon; boosters rarely observed)*
+
+</details>
+
+---
+
+### **3c. Broader context**  
+Rarely stacked.
+
+<details>
+<summary><em>Examples</em></summary>
+
+NA
+
+</details>
+
+---
+
+### **3d. Grounds**  
+Often appears **after justification or explanation**, similar to *imperative*  
+(e.g. X → therefore Y is paramount).
+
+<details>
+<summary><em>Examples</em></summary>
+
+*Thus it is **paramount** that we learn on how to detect AMD early and develop treatments that allow for early disease prevention .*
+
+</details>
+
+---
+
+### **3e. Relative / Hedged**  
+Rarely relative or hedged.
+
+<details>
+<summary><em>Examples</em></summary>
+
+*However , studies demonstrating differences in smoking cessation outcomes across the menstrual cycle , as well as animal research implicating a role for ovarian hormones in nicotine - related reinforcement , suggest that hormonal mechanisms may be **paramount** .*
+
+</details>
+
+---
