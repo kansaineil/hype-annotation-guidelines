@@ -102,7 +102,7 @@ Often grounded by justification (e.g. *thus*, *therefore*, *because*, *makes it*
 
 - *Understanding of the initiation of DNA replication is therefore **essential** for the control of normal development , wound -healing and oncogenic transformation .*  
 
-- *The mammalian uterus is **essential** for reproduction because it maintains the fertilized ovum , provides an environment suitable for implantation and sustains the conceptus during early embryonic development and throughout gestation .(
+- *The mammalian uterus is **essential** for reproduction because it maintains the fertilized ovum , provides an environment suitable for implantation and sustains the conceptus during early embryonic development and throughout gestation .*
 
 - *Although some studies performed in rat may provide useful clues , it is understood that the greater size and complexity of the monkey brain and its similarity to the human brain makes it **essential** to optimize the viability of grafts in monkey models .*
 
@@ -117,7 +117,7 @@ Negation or mitigation (*not essential*) should be coded as 3e.
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *Such miniaturization may prove **essential** for the ability to tag and track extracellular vesicles ( EV ) in vivo which are now believed to be a key element in the metastatic spread of cancers such as TNBC .**
+- *Such miniaturization may prove **essential** for the ability to tag and track extracellular vesicles ( EV ) in vivo which are now believed to be a key element in the metastatic spread of cancers such as TNBC .*
 
 - *However , arrestins are not **essential** for internalization of all GPCRs .*
 
