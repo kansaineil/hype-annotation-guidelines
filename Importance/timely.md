@@ -16,11 +16,11 @@ parent: Importance
 
 - *This trial will answer **timely** questions of the impact on the functional status of the most frail elderly of modest , potentially sustainable inputs into improving the appropriate utilization of eye care services .*
 
-- *The inability to diagnose cell transplant failure in a **timely** manner represents a major barrier for the development of effective joint regeneration procedures .*
+- *The inability to diagnose cell transplant failure in a **timely** manner represents a major barrier for the development of effective joint regeneration procedures .* (non-value judgement = on time)
 
-- *Therefore, **timely** diagnosis using accurate diagnostics and early treatment is imperative .* 
+- *Therefore, **timely** diagnosis using accurate diagnostics and early treatment is imperative .* (non-value judgement = on time)
 
-- *The key to improving this survival is the **timely** delivery of the antidote naloxone .*
+- *The key to improving this survival is the **timely** delivery of the antidote naloxone .* (non-value judgement = on time)
 
 </details>
 
