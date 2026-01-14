@@ -5,7 +5,7 @@ parent: Importance
 ---
 
 ### **1. Value-judgement**  
-Eexpresses a **strong value judgement**, signalling urgency or necessity. Can usually be replaced by a more neutral term such as *necessary* or *needed*.
+Expresses a **strong value judgement**, signalling urgency or necessity. Can usually be replaced by a more neutral term such as *necessary* or *needed*.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -33,7 +33,7 @@ May be reduced if counter-signals are present.
 
 ### **3a. Gratuitous**  
 Not usually gratuitous.  
-*Imperative* most often appears in **predicative constructions** (e.g. *it is imperative that…*) and is thus often not easilty removable. In attributive use, can suaully be removed (e.g. *an imperative need*)
+*Imperative* most often appears in **predicative constructions** (e.g. *it is imperative that…*) and is thus often not easilty removable. In attributive use, can uaully be removed (e.g. *an imperative need*)
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
