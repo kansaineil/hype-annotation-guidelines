@@ -16,15 +16,6 @@ Almost always **yes**. Expresses strong **importance or centrality**. Can usuall
 - *pivotal phase* (e.g. Phase II/III designation in drug development)
 - *pivotal efficacy* (as a regulatory endpoint label)
 
-<details markdown="1">
-<summary><em>Examples</em></summary>
-
-- *It is widely recognized that right ventricular dysfunction plays a **pivotal** role in heart failure in patients with pulmonary arterial hypertension ( PAH ) , interstitial lung diseases and COPD .*  
-
-- *The data collected from this grant will enable the design of a **pivotal** phase III clinical study defining APP - targeted hemodynamic support as the new standard of care for septic shock .* 
-
-</details>
-
 ---
 
 ### **2. Hyperbolic**  
