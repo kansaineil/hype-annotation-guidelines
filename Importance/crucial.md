@@ -93,7 +93,7 @@ Often hedged by *may*.
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *It is therefore **crucial** for the understanding of skin carcinogenesis , that the types of DNA lesions induced by solar UV radiation and the mechanisms by which these damages are repaired be elucidated .*  
+- *These details may be **crucial** for designing an efficacious HIV vaccine .*  
 
 </details>
 
