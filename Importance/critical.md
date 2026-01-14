@@ -51,7 +51,7 @@ When expressing **importance or urgency**, *critical* is often **gratuitous**, e
 
 - *The **critical** need for quality control of investigations in both the clinical and basic sciences is recognized …*  
 
-- *There is a critical unmet need in cancer research to identify targeting agents that can distinguish between normal , pre-cancerous , malignant , and metastatic phenotypes .*
+- *There is a **critical** unmet need in cancer research to identify targeting agents that can distinguish between normal , pre-cancerous , malignant , and metastatic phenotypes .*
 
 - *The studies will also yield additional and **critical** information on the benefits of targeting Rac1 and Cdc42 in ovarian and other cancers .*  
 
