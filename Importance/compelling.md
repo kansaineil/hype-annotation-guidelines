@@ -95,11 +95,11 @@ Occasionally grounds given.
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *These studies are particularly **compelling** because HAND2 is markedly overexpressed in neuroblastoma …*  
+- *These studies are **compelling** because HAND2 is markedly overexpressed in neuroblastoma …*  
 
-- *This is quite **compelling** because owl monkeys are known to have minimal restriction factors against HIV-1 .*  
+- *This is **compelling** because owl monkeys are known to have minimal restriction factors against HIV-1 .*  
 
-- *This new field of optoacoustic imaging of nanoparticles is very **compelling** due to their sensitivity …*
+- *This new field of optoacoustic imaging of nanoparticles is **compelling** due to their sensitivity …*
 
 </details>
 
