@@ -33,7 +33,7 @@ Usually gratuitous
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-NA
+- *Probiotics hold **enormous** potential for promoting human health and treating disease , including NEC .*
 
 </details>
 
