@@ -15,7 +15,7 @@ Treat as non-value when the term is necessary for meaning and structure of the s
 
 - *This goal will be approached by pursuing a cohesive, **interdisciplinary** program of investigation focused upon early detection of acute lung injury, definition of the biochemical and cellular mechanisms which induce and modulate the injury and development of methods for intervention.* (value judgement)
 
-- *The project will take an **interdisciplinary** approach, using engineering methods to measure and manipulate ECM materials properties and topology in culture and in vivo, together with molecular cell biology methods and genetic mouse models to investigate whether collagen remodeling and cross-linking promote tumor progression by stiffening the breast tissue to enhance integrin and GFR signaling and / or compromising PTEN expression / function.* (non-value judgement)
+- *The project will take an **interdisciplinary** approach that uses engineering methods to measure and manipulate ECM materials properties and topology in culture and in vivo, together with molecular cell biology methods and genetic mouse models to investigate whether collagen remodeling and cross-linking promote tumor progression by stiffening the breast tissue to enhance integrin and GFR signaling and / or compromising PTEN expression / function.* (non-value judgement)
 
 </details>
 
