@@ -1,7 +1,9 @@
 ---
-title: Interdisciplinary / Multidisciplinary / Transdisciplinary / Interprofessional / International
+title: Multidisciplinary
 parent: Scale
 ---
+
+(Interdisciplinary / Multidisciplinary / Transdisciplinary / Interprofessional / International)
 
 ### **1. Value-judgement**
 Usually yes. Commonly function as a prestige buzzwords signalling breadth/modernity (“good because broad”).
