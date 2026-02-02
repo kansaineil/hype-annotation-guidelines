@@ -93,12 +93,29 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 <a id="step3a"></a>
 ### Step 3a. Gratuitous
 
-**Question:** Is the adjective gratuitous, adding little to the propositional content?
+**Question:** Does the adjective add little to the propositional content?
+
+---
 
 **YES → HYPE**  
-- Removing the adjective does not change meaning substanially
+- Removing the adjective leaves the core meaning essentially unchanged.  
+- Common in **attributive position**, especially with **definite noun phrases** (*the / this / these*), where the adjective mainly adds evaluation.
 
-**NO → NOT HYPE**
+**Examples (HYPE):**  
+- *the **dismal** prognosis* → *the prognosis*  
+- *this **alarming** trend* → *this trend*  
+- *the **vast** literature* → *the literature*
+
+---
+
+**NO → NOT HYPE**  
+- The adjective contributes to the claim (expresses an assessment or conclusion).  
+- More likely in **predicate position** or with **indefinite noun phrases**.
+
+**Examples (NOT HYPE):**  
+- *The prognosis is **dismal***  
+- *This trend is **alarming***  
+- *Patients showed **a dismal** response to treatment*
 
 [Back to overview](#overview)
 
