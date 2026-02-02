@@ -110,7 +110,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **NO → NOT HYPE**  
 - The adjective contributes to the claim (expresses an assessment or conclusion).  
-- More likely in **predicate position** or with **indefinite noun phrases**.
+- More likely in **predicate position**, **after the verb** or with **indefinite noun phrases** where the adjective adds defining information.
 
 **Examples (NOT HYPE):**  
 - *The prognosis is **dismal***  
