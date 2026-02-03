@@ -3,8 +3,6 @@ title: Essential
 parent: Importance
 ---
 
-## **Essential — annotation guidance**
-
 ---
 
 ### **1. Value-judgement**  
