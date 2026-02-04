@@ -1,6 +1,6 @@
 ---
 title: Nuanced
-parent: Rigour
+parent: Rigor
 ---
 
 ---
