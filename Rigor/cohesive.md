@@ -1,6 +1,6 @@
 ---
 title: Cohesive
-parent: Rigour
+parent: Rigor
 ---
 
 ---
