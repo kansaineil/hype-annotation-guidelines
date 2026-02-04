@@ -1,6 +1,6 @@
 ---
 title: Powerful
-parent: Rigour
+parent: Rigor
 ---
 
 ---
