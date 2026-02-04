@@ -174,7 +174,7 @@ Continue to Step 3d.
 
 **Question:** Are grounds (i.e., justifications) given?
 
-**YES** → hype-decreasing signal
+**YES** → hype-reducing signal
 
 | Pattern type                             | Generic pattern                                                   |
 |------------------------------------------|-------------------------------------------------------------------|
@@ -195,9 +195,9 @@ Continue to Step 3e.
 <a id="step3e"></a>
 ### Step 3e. Relative / Hedged
 
-**Question:** Is the framing relative or hedged? Is the use of the adjective limited, qualified, or made conditional rather than presented as universally true?
+**Question:** Is the framing relative or hedged? Is the use of the adjective limited, qualified, or made conditional rather than presented as an absolute?
 
-**YES** →  hype-decreasing signal
+**YES** →  hype-reducing signal
 
 | Pattern type        | Generic pattern                              |
 |---------------------|-----------------------------------------------|
