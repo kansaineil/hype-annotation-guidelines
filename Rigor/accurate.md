@@ -1,6 +1,6 @@
 ---
 title: Accurate
-parent: Rigour
+parent: Rigor
 ---
 
 ---
