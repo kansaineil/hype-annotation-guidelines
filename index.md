@@ -30,7 +30,7 @@ These guidelines help annotators decide whether an adjective, in a given context
 
 ```text
 Value-judgement?
- ├── NO → NOT HYPE
+ ├── NO
  └── YES
        │
        ▼
@@ -42,13 +42,13 @@ Hyperbolic?
 Evaluate Step 3 signals:
 
 Hype-increasing:
- 3a Gratuitous
- 3b Amplified
- 3c Broader context
+ 3a Gratuitous - YES / NO
+ 3b Amplified - YES / NO
+ 3c Broader context - YES / NO
 
 Counter-signals:
- 3d Grounds
- 3e Relative / Hedged
+ 3d Grounds - YES / NO
+ 3e Relative / Hedged - YES / NO
 
 Final decision:
 If hype-increasing > hype-reducing → HYPE
@@ -93,29 +93,40 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 <a id="step3a"></a>
 ### Step 3a. Gratuitous
 
-**Question:** Does the adjective add little to the propositional content?
+**Question:** Is the adjective gratuitous?
+
+An adjective is gratuitous if it can be deleted without extensive rewriting or the sentence or changing the claim. 
 
 ---
 
-**YES → HYPE**  
-- Removing the adjective leaves the core meaning essentially unchanged.  
-- Common in **attributive position**, especially with **definite noun phrases** (*the / this / these*), where the adjective mainly adds evaluation.
+**YES → GRATUITOUS**  
+- Removal of the adjective (or the  phrase) with minimal local repair leaves the core meaning essentially unchanged.
+- Common when the head noun or verb already conveys the same core idea, so the proposition is left intact. Common in **attributive position**, especially with **definite noun phrases** (*the / this / these*), where the adjective mainly adds evaluation.
+- Allow for fixing number/determiner mismatch caused by deletion.
+- Allow for removal of stranded adverbs/determiners tied to the adjective.
+- Allow for removal of whole phrase (e.g. adverbial phrase) if meaning remains essentially unchanged.
 
-**Examples (HYPE):**  
+**Examples:**  
 - *the **dismal** prognosis* → *the prognosis*  
 - *this **alarming** trend* → *this trend*  
 - *the **vast** literature* → *the literature*
+- *an **unmet** need*  → *a need* (*need* already encodes for requirement)
+- *an **exciting** prospect* → *a prospect* (determiner mismatch)
+- ***very exciting** results* → *results* (removal of stranded adverb)
+- *increased **at an alarming rate*** → *increasesd* (removal of adverbial phrase, *increase* alread encodes for change)
 
 ---
 
-**NO → NOT HYPE**  
-- The adjective contributes to the claim (expresses an assessment or conclusion).  
+**NO → NON-GRATUITOUS**  
+- The adjective is necessary for the claim  or removing breaks the syntax beyond minimal local repair
 - More likely in **predicate position**, **after the verb** or with **indefinite noun phrases** where the adjective adds defining information.
+- Sometimes the verb or noun will already encode teh 
 
 **Examples (NOT HYPE):**  
+- *Patients showed **a dismal** response to treatment*
 - *The prognosis is **dismal***  
 - *This trend is **alarming***  
-- *Patients showed **a dismal** response to treatment*
+
 
 [Back to overview](#overview)
 
