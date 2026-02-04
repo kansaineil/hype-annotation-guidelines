@@ -1,6 +1,6 @@
 ---
 title: Advanced
-parent: Rigour
+parent: Rigor
 ---
 
 ---
