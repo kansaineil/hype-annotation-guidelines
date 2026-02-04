@@ -29,7 +29,7 @@ These guidelines help annotators decide whether an adjective, in a given context
 ### Decision flow (priority logic)
 
 ```text
-Value-judgement?
+Value-judgement? (Hype-increasing)
  ├── NO
  └── YES
        │
