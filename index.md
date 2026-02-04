@@ -70,7 +70,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 - Most adjectives in the lexicon imply a value judgement 
 → Continue to Step 2.
 
-**NO → Likely NOT HYPE** (Typically, proper nouns, technical/domain-specific and literal meaning)
+**NO → Typically, proper nouns, technical/domain-specific and literal meaning
 → Code as NOT HYPE.
 
 [Back to overview](#overview)
