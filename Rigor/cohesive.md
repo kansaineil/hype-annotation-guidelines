@@ -72,11 +72,23 @@ Sometimes coordinated/stacked with other positive descriptors (e.g., *collaborat
 ---
 
 ### **3d. Grounds**  
-When ambiguous, consider whether surrounding context contributes to or detracts from overall promotional force (e.g., stacking vs. explicit grounds).
+Occasionally grounded by specification or elaboration (i.e., stated criteria for cohesion).
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *The MCC ?s collective efforts also draw on strong institutional training resources to achieve 2 overarching goals of this program : to guide **cohesive** growth and coordinate transdisciplinary education and mentoring endeavors across the MCC ; and to integrate with other efforts campus wide .* (HYPE)
+NA
+
+</details>
+
+---
+
+### **3e. Relative / Hedged**  
+Rare.
+
+<details markdown="1">
+<summary><em>Examples</em></summary>
+
+NA
 
 </details>
