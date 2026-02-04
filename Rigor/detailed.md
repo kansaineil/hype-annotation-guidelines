@@ -1,6 +1,6 @@
 ---
 title: Detailed
-parent: Rigour
+parent: Rigor
 ---
 
 ---
