@@ -39,7 +39,7 @@ Hyperbolic?
  └── NO
        │
        ▼
-Evaluate Step 3 signals:
+Evaluate Step 3 additional signals:
 
 Hype-increasing:
  3a Gratuitous - YES / NO
@@ -81,12 +81,10 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **Question:** Is the adjective hyperbolic?
 
-**YES**  
+**YES**  → HYPE
 - Relatively closed class (e.g., *revolutionary*, *groundbreaking*, *superb*, *tremendous*)
 
-**NO** 
-
-Continue to Step 3a.
+**NO** → Continue to Step 3a.
 
 [Back to overview](#overview)
 
@@ -101,7 +99,7 @@ An adjective is gratuitous if it can be deleted without extensive rewriting of t
 
 ---
 
-**YES**  
+**YES**  → hype-increasing signal
 - Removal of the adjective (or the  phrase) with minimal local repair leaves the core meaning essentially unchanged.
 - Common when the head noun or verb already conveys the same core idea, so the proposition is left intact. Common in **attributive position**, especially with **definite noun phrases** (*the / this / these*), where the adjective mainly adds evaluation.
 - Allow for fixing number/determiner mismatch caused by deletion.
@@ -139,7 +137,7 @@ An adjective is gratuitous if it can be deleted without extensive rewriting of t
 
 **Question:** Is the strength of the adjective amplified?
 
-**YES**
+**YES**  → hype-increasing signal
 
 | Pattern type | Generic pattern |
 |--------------|----------------|
@@ -159,7 +157,7 @@ Continue to Step 3c.
 
 **Question:** Are promotional signals present in the broader context?
 
-**YES**  
+**YES**  → hype-increasing signal
 - Stacking with other hype adjectives (e.g. "a novel, innovative and reliable method)
 - Other promotional elements outside the noun phrase.
 
@@ -176,7 +174,7 @@ Continue to Step 3d.
 
 **Question:** Are grounds (i.e., justifications) given?
 
-**YES**
+**YES** → hype-decreasing signal
 
 | Pattern type                             | Generic pattern                                                   |
 |------------------------------------------|-------------------------------------------------------------------|
@@ -199,7 +197,7 @@ Continue to Step 3e.
 
 **Question:** Is the framing relative or hedged? Is the use of the adjective limited, qualified, or made conditional rather than presented as universally true?
 
-**YES → NOT HYPE**
+**YES** →  hype-decreasing signal
 
 | Pattern type        | Generic pattern                              |
 |---------------------|-----------------------------------------------|
@@ -213,7 +211,7 @@ Continue to Step 3e.
 
 All serve to bound the claim and make it less absolute.
 
-**NO →** Consider cumulative effect of criteria
+**NO**
 
 [Back to overview](#overview)
 
