@@ -66,7 +66,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **Question:** Does the adjective add a postive value judgement?
 
-**YES → Potentially HYPE** (Most adjectives imply a value judgement)
+**YES** (Most adjectives in the lexicon imply a value judgement)
 → Continue to Step 2.
 
 **NO → Likely NOT HYPE** (Typically, proper nouns, technical/domain-specific and literal meaning)
@@ -81,10 +81,12 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **Question:** Is the adjective hyperbolic?
 
-**YES → HYPE**  
+**YES**  
 - Relatively closed class (e.g., *revolutionary*, *groundbreaking*, *superb*, *tremendous*)
 
-**NO →** Continue to Step 3a.
+**NO** 
+
+Continue to Step 3a.
 
 [Back to overview](#overview)
 
@@ -95,11 +97,11 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 
 **Question:** Is the adjective gratuitous?
 
-An adjective is gratuitous if it can be deleted without extensive rewriting or the sentence or changing the claim. 
+An adjective is gratuitous if it can be deleted without extensive rewriting of the sentence and without changing the claim. 
 
 ---
 
-**YES → GRATUITOUS**  
+**YES**  
 - Removal of the adjective (or the  phrase) with minimal local repair leaves the core meaning essentially unchanged.
 - Common when the head noun or verb already conveys the same core idea, so the proposition is left intact. Common in **attributive position**, especially with **definite noun phrases** (*the / this / these*), where the adjective mainly adds evaluation.
 - Allow for fixing number/determiner mismatch caused by deletion.
@@ -117,12 +119,12 @@ An adjective is gratuitous if it can be deleted without extensive rewriting or t
 
 ---
 
-**NO → NON-GRATUITOUS**  
+**NO**  
 - The adjective is necessary for the claim  or removing breaks the syntax beyond minimal local repair
 - More likely in **predicate position**, **after the verb** or with **indefinite noun phrases** where the adjective adds defining information.
 - Sometimes the verb or noun will already encode teh 
 
-**Examples (NOT HYPE):**  
+**Examples:**  
 - *Patients showed **a dismal** response to treatment*
 - *The prognosis is **dismal***  
 - *This trend is **alarming***  
@@ -137,50 +139,56 @@ An adjective is gratuitous if it can be deleted without extensive rewriting or t
 
 **Question:** Is the strength of the adjective amplified?
 
-**YES → HYPE**
+**YES**
 
 | Pattern type | Generic pattern |
 |--------------|----------------|
 | Adverbial booster | “X is highly / very / extremely / fully / completely [adjective]” |
 | Intensifying stance verb | “ Method X ensures|guarantees [adjective] results”|
 
-**NO →** Continue to Step 3c.
+**NO** 
+
+Continue to Step 3c.
 
 [Back to overview](#overview)
 
 ---
 
 <a id="step3c"></a>
-### Step 3c. Grounds
+### Step 3c. Broader context
 
-**Question:** Are grounds (i.e., justifications) given?
+**Question:** Are promotional signals present in the broader context?
 
-**YES → NOT HYPE**
+**YES**  
+- Stacking with other hype adjectives (e.g. "a novel, innovative and reliable method)
+- Other promotional elements outside the noun phrase.
 
-| Pattern type | Generic pattern |
-|--------------|----------------|
-| Explicit justification | “X is [adjective] because …” |
-| Conditional justification | “If …, then X becomes [adjective]” |
-| Procedural/evidential justification | “Using method M, X is [adjective]” |
-| Contrastive justification | “Unlike previous approaches, X is [adjective]” |
-| Reference to assessment | “Analysis shows X is [adjective]” |
+**NO** 
 
-**NO →** Continue to Step 3d.
+Continue to Step 3d.
 
 [Back to overview](#overview)
 
 ---
 
 <a id="step3d"></a>
-### Step 3d. Broader context
+### Step 3d. Grounds
 
-**Question:** Are broader context signals present?
+**Question:** Are grounds (i.e., justifications) given?
 
-**YES → HYPE**  
-- Stacking with other hype adjectives (e.g. "a novel, innovative and reliable method)
-- Promotional context nearby
+**YES**
 
-**NO →** Continue to Step 3e.
+| Pattern type                             | Generic pattern                                                   |
+|------------------------------------------|-------------------------------------------------------------------|
+| Explicit justification (in-sentence)     | X is [adjective] because / due to … / Y makes X [adjective]       |
+| Explicit justification (cross-sentence)  | Thus / therefore / so / hence, X is [adjective] (from prior context) |
+| Evidential justification                 | Evidence / data / results show X is [adjective]                  |
+| Method-based justification               | Using method M, X is [adjective]                                  |
+| Reference to assessment                  | Analysis / experiments indicate X is [adjective]                 |
+
+**NO** 
+
+Continue to Step 3e.
 
 [Back to overview](#overview)
 
@@ -193,13 +201,17 @@ An adjective is gratuitous if it can be deleted without extensive rewriting or t
 
 **YES → NOT HYPE**
 
-| Pattern type | Generic pattern |
-|--------------|----------------|
-| Comparative | “X is more [adjective] than Y” |
-| Negative limitation | “There is a lack of [adjective] methods …” |
-| Change framing | “This leads to increasingly [adjective] performance under condition C” |
-| Scope restriction | “For specific cases, results are [adjective]” |
-| Modal hedging | “The approach may be [adjective]” |
+| Pattern type        | Generic pattern                              |
+|---------------------|-----------------------------------------------|
+| Conditional         | If / when / under conditions C, X is [adj]   |
+| Contrastive         | Unlike Y, X is [adj]                         |
+| Comparative         | X is more [adj] than Y                       |
+| Negation            | Not [adj] / lack of [adj]                    |
+| Scope restriction   | In some cases / for specific tasks           |
+| Modal hedging       | May / might / could be [adj]                 |
+| Possibility framing | It is possible that X is [adj] / potentially [adj] |
+
+All serve to bound the claim and make it less absolute.
 
 **NO →** Consider cumulative effect of criteria
 
