@@ -1,6 +1,6 @@
 ---
 title: Careful
-parent: Rigour
+parent: Rigor
 ---
 
 ---
