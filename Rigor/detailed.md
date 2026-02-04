@@ -35,7 +35,7 @@ Usually gratuitous, especially with abstract or process nouns that denote analys
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-NA
+- *This in turn will enable a **detailed** comparison with the natural product , particularly in terms of structure and the specific bioactivity associated with several neurological disease states .*
 
 </details>
 
