@@ -70,7 +70,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 - Most adjectives in the lexicon imply a value judgement 
 → Continue to Step 2.
 
-**NO → Typically, proper nouns, technical/domain-specific and literal meaning
+**NO** → Typically, proper nouns, technical/domain-specific and literal meaning
 → Code as NOT HYPE.
 
 [Back to overview](#overview)
@@ -182,7 +182,6 @@ Continue to Step 3d.
 | Explicit justification (in-sentence)     | X is [adjective] because / due to … / Y makes X [adjective]       |
 | Explicit justification (cross-sentence)  | Thus / therefore / so / hence, X is [adjective] (from prior context) |
 | Evidential justification                 | Evidence / data / results show X is [adjective]                  |
-| Method-based justification               | Using method M, X is [adjective]                                  |
 | Reference to assessment                  | Analysis / experiments indicate X is [adjective]                 |
 
 **NO** 
