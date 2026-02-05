@@ -142,8 +142,8 @@ An adjective is gratuitous if it can be deleted without extensive rewriting of t
 
 | Pattern type | Generic pattern |
 |--------------|----------------|
-| Adverbial booster | “X is highly / very / extremely / fully / completely [adjective]” |
-| Intensifying stance verb | “ Method X ensures|guarantees [adjective] results”|
+| Adverbial booster | X is highly / very / extremely / fully / completely [adjective] |
+| Intensifying stance verb | Method X ensures|guarantees [adjective] results|
 
 **NO** 
 
