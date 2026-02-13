@@ -64,7 +64,7 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 <a id="step1"></a>
 ### Step 1. Value-judgement
 
-**Question:** Does the adjective add a postive value judgement?
+**Question:** Does the adjective add a postive value judgement? Note that a value judgement does not mean that an adjective is hype.
 
 **YES**   → hype-increasing signal
 - Most adjectives in the lexicon imply a value judgement 
@@ -103,9 +103,11 @@ An adjective is gratuitous if it can be deleted without extensive rewriting of t
 **YES**  → hype-increasing signal
 - Removal of the adjective (or the  phrase) with minimal local repair leaves the core meaning essentially unchanged.
 - Common when the head noun or verb already conveys the same core idea, so the proposition is left intact. Common in **attributive position**, especially with **definite noun phrases** (*the / this / these*), where the adjective mainly adds evaluation.
+- Common with shell nouns (abstract “container” nouns like *nature, role, fact, issue, aspect, importance*) where the adjective mainly adds evaluation.
 - Allow for fixing number/determiner mismatch caused by deletion.
 - Allow for removal of stranded adverbs/determiners tied to the adjective.
 - Allow for removal of whole phrase (e.g. adverbial phrase) if meaning remains essentially unchanged.
+- Allow deletion of shell-noun frames like *the [ADJ] nature/role/importance/value of X*, reducing to *X* when the core meaning stays the same.
 
 **Examples:**  
 - *the **dismal** prognosis* → *the prognosis*  
@@ -115,13 +117,13 @@ An adjective is gratuitous if it can be deleted without extensive rewriting of t
 - *an **exciting** prospect* → *a prospect* (determiner mismatch)
 - ***very exciting** results* → *results* (removal of stranded adverb)
 - *increased **at an alarming rate*** → *increasesd* (removal of adverbial phrase, *increase* alread encodes for change)
+- *This project focuses on **the unique nature of** the occipital artery microvasculature in nodose ganglia and its importance to the regulation of vagal afferent activity and cardiovascular function.* → *This project focuses on the occipital artery microvasculature in nodose ganglia and its importance to the regulation of vagal afferent activity and cardiovascular function.* 
 
 ---
 
 **NO**  
 - The adjective is necessary for the claim  or removing breaks the syntax beyond minimal local repair
 - More likely in **predicate position**, **after the verb** or with **indefinite noun phrases** where the adjective adds defining information.
-- Sometimes the verb or noun will already encode teh 
 
 **Examples:**  
 - *Patients showed **a dismal** response to treatment*
@@ -161,6 +163,7 @@ Continue to Step 3c.
 **YES**  → hype-increasing signal
 - Stacking with other hype adjectives (e.g. "a novel, innovative and reliable method)
 - Other promotional elements outside the noun phrase.
+- See list current list of hype adjectives for candidates, but also include words / phrases that aren't included, but are clearly promotional - e.g *cutting edge, breakthrough, breaking new ground*
 
 **NO** 
 
