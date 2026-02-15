@@ -45,7 +45,7 @@ Can it be removed with only local repair and meaning remains largely intact — 
   (gratuitous → *This study will also determine the prevalence …*; local repair and meaning remains intact)
 
 - *This will be the **first** study to combine longitudinal neurocognitive testing and brain imaging to better understand the extent and locus of brain changes in AMD .*  
-  (non-gratuitous → *This will be a study …*; meaning does not remain intact)
+  (gratuitous → *This study combines …*; minimal local repair)
 
 </details>
 
