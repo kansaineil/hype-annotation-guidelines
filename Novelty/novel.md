@@ -7,10 +7,10 @@ parent: Novelty
 
 ### **1. Value-judgement**  
 Usually yes when it suggests “new and therefore desirable”. Typical nouns related to (1) methods/technologies and (2) knowledge/ideas:  
-*approach, method, technique, methodology, strategy, protocol, procedure, platform, technology, tool, device, framework, model, hypothesis, concept, paradigm, theory, mechanism, pathway, signaling, insight, understanding, discovery, finding, evidence*  
+*approach, method, technique, methodology, strategy, protocol, procedure, platform, technology, tool, device, framework, model, hypothesis, concept, paradigm, theory, insight, understanding, discovery, finding, evidence*  
 
 Usually no when it mainly means “newly identified / newly developed” and is applied to a biomedical entity/intervention. Typical nouns:  
-*gene, protein, receptor, ligand, enzyme, kinase, cytokine, peptide, isoform, mutation, variant, RNA, DNA, biomarker, antibody, antigen, virus, compound, agent, inhibitor, drug, vaccine, therapy, treatment, intervention, formulation, regimen*  
+*gene, protein, receptor, ligand, enzyme, kinase, cytokine, peptide, isoform, mutation, variant, RNA, DNA, biomarker, antibody, antigen, virus, compound, agent, inhibitor, drug, vaccine, therapy, treatment, intervention, formulation, regimen, mechanism, pathway, signaling*  
 
 In very broad terms, the more abstract the target is, the more likely *novel* is to imply a value judgement.
 
