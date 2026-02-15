@@ -19,7 +19,7 @@ Yes — almost always.
 
 ### **2. Hyperbolic**  
 Yes — almost always.  
-**Strong override — stop here.**
+**Strong override — continue to annotate for remaining criteria.**
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
@@ -31,24 +31,24 @@ Yes — almost always.
 ---
 
 ### **3a. Gratuitous**  
-No need to annotate.
+See general guidelines.
 
 ---
 
 ### **3b. Amplified**  
-No need to annotate.
+See general guidelines.
 
 ---
 
 ### **3c. Broader context**  
-No need to annotate.
+See general guidelines.
 
 ---
 
 ### **3d. Grounds**  
-No need to annotate.
+See general guidelines.
 
 ---
 
 ### **3e. Relative / Hedged**  
-No need to annotate.
+See general guidelines.
