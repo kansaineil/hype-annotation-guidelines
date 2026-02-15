@@ -19,13 +19,13 @@ Typical nouns:
 
 - *The results of this study will provide rare and **unique** information about the pre-migration experiences of emigrants , provide rigorous a test of secular trends versus acculturation , evaluate a novel conceptual framework , and provide valuable information from which to develop prevention efforts to reduce the burden of obesity and related conditions among an important immigrant population .* (value judgement)
 
-- *In an effort to develop a **unique** approach to this problem area , we have recently established a murine lung adenoma model in our laboratory -- induced by transplacental exposure to N ,ethylnitrosourea .*  
+- *In an effort to develop a **unique** approach to this problem area , we have recently established a murine lung adenoma model in our laboratory -- induced by transplacental exposure to N ,ethylnitrosourea .*  (value judgement)
 
 - *We have the **unique** ability to critically evaluate hypotheses concerning oxygen and control of microvascular function by the use of state of the art techniques such as intravital videomicroscopy , in situ microvessel perfusion , preparation of parenchyma free arterioles and measurement of PO2 with oxygen microelectrodes .* (value judgement – evaluates resource)
 
 - *Kidney has a **unique** ability of accumulating trimethyllysine .* (non-value judgement – biological process)
 
-- *The LLC - PK1 cell line is **unique** in its ability to actively transport sugar .*  
+- *The LLC - PK1 cell line is **unique** in its ability to actively transport sugar .*  (non-value judgement – biological process)
 
 - *The put operon has a **unique** control mechanism that seems to be mediated by the putA gene product , proline oxidase .* (non-value judgement – biological process)
 
