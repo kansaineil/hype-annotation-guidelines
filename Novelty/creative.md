@@ -9,7 +9,7 @@ parent: Novelty
 Mixed.
 
 - **Yes** — when used as praise. Typical targets: *research; approach; environment; design; teaching; training; technology; work; intervention; faculty; science*.
-- **No** — when used in proper names/labels, or refers neutrally to cognitive processes. Typical targets: *thinking; thought; process(es); expression; services*.
+- **No** — when used in proper names/labels, or refers neutrally to cognitive processes. Typical targets: *thinking; thought; process(es); expression; services; content*.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
