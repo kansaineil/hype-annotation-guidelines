@@ -9,7 +9,7 @@ parent: Novelty
 Mixed.
 
 - **Yes** — when used as a priority claim (“the first to …”, “first evidence-based …”), e.g. *evidence; study; demonstration*.  
-- **No** — when used as a numbering device (time/sequence/ordering), e.g. *aim; step; phase*.
+- **No** — when used as a numbering device (time/sequence/ordering), e.g. *aim; step; phase*. Also when used in some set phrases with (semi-) technical meaning - e.g. *first-line treatment*.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
