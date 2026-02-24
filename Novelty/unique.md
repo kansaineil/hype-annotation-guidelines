@@ -21,7 +21,7 @@ Typical nouns:
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *The results of this study will provide rare and **unique** information about the pre-migration experiences of emigrants , provide rigorous a test of secular trends versus acculturation , evaluate a novel conceptual framework , and provide valuable information from which to develop prevention efforts to reduce the burden of obesity and related conditions among an important immigrant population .* (value judgement)
+- ~~*The results of this study will provide rare and **unique** information about the pre-migration experiences of emigrants , provide rigorous a test of secular trends versus acculturation , evaluate a novel conceptual framework , and provide valuable information from which to develop prevention efforts to reduce the burden of obesity and related conditions among an important immigrant population .* (value judgement)
 
 - *In an effort to develop a **unique** approach to this problem area , we have recently established a murine lung adenoma model in our laboratory -- induced by transplacental exposure to N ,ethylnitrosourea .*  (value judgement)
 
@@ -31,7 +31,7 @@ Typical nouns:
 
 - *The LLC - PK1 cell line is **unique** in its ability to actively transport sugar .*  (non-value judgement – biological process)
 
-- *The put operon has a **unique** control mechanism that seems to be mediated by the putA gene product , proline oxidase .* (non-value judgement – biological process)
+- *The put operon has a **unique** control mechanism that seems to be mediated by the putA gene product , proline oxidase .* (non-value judgement – biological process)~~
 
 </details>
 
