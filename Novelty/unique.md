@@ -6,13 +6,17 @@ parent: Novelty
 ---
 
 ### **1. Value-judgement**  
-Usually, yes when it suggests “distinctive and therefore advantageous or noteworthy.”  
+
+Revert to general guidelines - focus on 'is the adjective gratuitous'; if 'yes', treat as value judgement.
+Note: this adjective is very contextually diverse and, therefore, guidelines based on semantics are not feasible.
+
+~~Usually, yes when it suggests “distinctive and therefore advantageous or noteworthy.” ~~ 
 Typical nouns related to (1) resources/positions and (2) scientific contributions/insights:  
 *opportunity, resource, capability, environment, position, setting, program, center, infrastructure, collaboration, expertise, cohort, dataset, platform, perspective, insight, contribution, approach, model, understanding, mechanism, role, interaction*
 
 Usually, no when it mainly means “one-of-a-kind / non-overlapping / specific” and is applied to a biological, structural, or formally defined entity or process.  
 Typical nouns:  
-*sequence, mutation, variant, strain, receptor, pathway, structure, phenotype, pattern, combination, case, solution, equilibrium, identifier*
+*sequence, mutation, variant, strain, receptor, pathway, structure, phenotype, pattern, combination, case, solution, equilibrium, identifier*~~
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
