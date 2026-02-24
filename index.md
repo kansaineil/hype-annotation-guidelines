@@ -67,7 +67,8 @@ Each step below corresponds to the steps in the table above. Follow them in orde
 **Question:** Does the adjective add a postive value judgement? Note that a value judgement does not mean that an adjective is hype.
 
 **YES**   → hype-increasing signal
-- Most adjectives in the lexicon imply a value judgement 
+- Most adjectives in the lexicon imply a value judgement
+- If gratuitous, treat automatically as a value judgement
 → Continue to Step 2.
 
 **NO** → Typically, proper nouns, technical/domain-specific and literal meaning
