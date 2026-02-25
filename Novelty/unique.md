@@ -10,18 +10,18 @@ parent: Novelty
 Revert to general guidelines - focus on 'is the adjective gratuitous'; if 'yes', treat as value judgement.
 Note: this adjective is very contextually diverse and, therefore, guidelines based on semantics are not feasible.
 
-~~Usually, yes when it suggests “distinctive and therefore advantageous or noteworthy.” ~~ 
+Usually, yes when it suggests “distinctive and therefore advantageous or noteworthy.” ~~ 
 Typical nouns related to (1) resources/positions and (2) scientific contributions/insights:  
 *opportunity, resource, capability, environment, position, setting, program, center, infrastructure, collaboration, expertise, cohort, dataset, platform, perspective, insight, contribution, approach, model, understanding, mechanism, role, interaction*
 
 Usually, no when it mainly means “one-of-a-kind / non-overlapping / specific” and is applied to a biological, structural, or formally defined entity or process.  
 Typical nouns:  
-*sequence, mutation, variant, strain, receptor, pathway, structure, phenotype, pattern, combination, case, solution, equilibrium, identifier*~~
+*sequence, mutation, variant, strain, receptor, pathway, structure, phenotype, pattern, combination, case, solution, equilibrium, identifier*
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- ~~*The results of this study will provide rare and **unique** information about the pre-migration experiences of emigrants , provide rigorous a test of secular trends versus acculturation , evaluate a novel conceptual framework , and provide valuable information from which to develop prevention efforts to reduce the burden of obesity and related conditions among an important immigrant population .* (value judgement)
+- *The results of this study will provide rare and **unique** information about the pre-migration experiences of emigrants , provide rigorous a test of secular trends versus acculturation , evaluate a novel conceptual framework , and provide valuable information from which to develop prevention efforts to reduce the burden of obesity and related conditions among an important immigrant population .* (value judgement)
 
 - *In an effort to develop a **unique** approach to this problem area , we have recently established a murine lung adenoma model in our laboratory -- induced by transplacental exposure to N ,ethylnitrosourea .*  (value judgement)
 
@@ -31,7 +31,7 @@ Typical nouns:
 
 - *The LLC - PK1 cell line is **unique** in its ability to actively transport sugar .*  (non-value judgement – biological process)
 
-- *The put operon has a **unique** control mechanism that seems to be mediated by the putA gene product , proline oxidase .* (non-value judgement – biological process)~~
+- *The put operon has a **unique** control mechanism that seems to be mediated by the putA gene product , proline oxidase .* (non-value judgement – biological process)
 
 </details>
 
