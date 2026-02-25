@@ -8,18 +8,18 @@ parent: Novelty
 ### **1. Value-judgement**  
 Revert to general guidelines - focus on 'is the adjective gratuitous'; if 'yes', treat as value judgement. Note: this adjective is very contextually diverse and, therefore, guidelines based on semantics are not feasible.
 
-~~Usually yes when it suggests “new and therefore desirable”. Typical nouns related to (1) methods/technologies and (2) knowledge/ideas:  
-*approach, method, technique, methodology, strategy, protocol, procedure, platform, technology, tool, device, framework, model, hypothesis, concept, paradigm, theory, insight, understanding, discovery, finding, evidence*  
+Usually yes when it suggests “new and therefore desirable”. Typical nouns related to (1) methods/technologies and (2) knowledge/ideas:  
+*approach, method, technique, methodology, strategy, protocol, procedure, platform, technology, tool, device, framework, model, hypothesis, concept, paradigm, theory, insight, understanding, discovery, finding, evidence*
 
 Usually no when it mainly means “newly identified / not previously identified / newly developed” and is applied to a biomedical entity/intervention. Typical nouns:  
-*gene, protein, receptor, ligand, enzyme, kinase, cytokine, peptide, isoform, mutation, variant, RNA, DNA, biomarker, antibody, antigen, virus, compound, agent, inhibitor, drug, vaccine, therapy, treatment, intervention, formulation, regimen, mechanism, pathway, signaling*  ~~
+*gene, protein, receptor, ligand, enzyme, kinase, cytokine, peptide, isoform, mutation, variant, RNA, DNA, biomarker, antibody, antigen, virus, compound, agent, inhibitor, drug, vaccine, therapy, treatment, intervention, formulation, regimen, mechanism, pathway, signaling*  
 
 In very broad terms, the more abstract the target is, the more likely *novel* is to imply a value judgement.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- ~~*We propose to resolve these conflicts with a **novel** approach that directly combines anatomical pathway tracing ( Aim # 1 ) and physiological receptive field mapping ( Aim # 2 ) to define areas .* (value judgement – knowledge & possible treatment)
+- *We propose to resolve these conflicts with a **novel** approach that directly combines anatomical pathway tracing ( Aim # 1 ) and physiological receptive field mapping ( Aim # 2 ) to define areas .* (value judgement – knowledge & possible treatment)
 
 - *First , side population ( SP ) stem cells appear to differentiate into cardiomyocytes in our mouse infarction model , but mitoses in these immature cardiomyocytes are only noted in the transgenic mice , thus possibly uncovering a **novel** mechanism to induce hyperproliferative progenitor cells .* (value judgement – knowledge & ‘newness’ / ‘surprise’)
 
@@ -33,7 +33,7 @@ In very broad terms, the more abstract the target is, the more likely *novel* is
 
 - *Here we propose to characterize this **novel** prophylactic stroke therapy and demonstrate the efficacy and immune cell activation in the setting of stroke .* (non-value judgement)
 
-- *We have developed a **novel** assay to measure absolute concentrations of sn-1,2-diacylglycerol in tissue culture cells .* (non-value judgement)~~
+- *We have developed a **novel** assay to measure absolute concentrations of sn-1,2-diacylglycerol in tissue culture cells .* (non-value judgement)
 
 </details>
 
