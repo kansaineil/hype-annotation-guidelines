@@ -9,11 +9,9 @@ parent: Novelty
 **Note:** Because novel is highly contextually diverse, value-judgement based on the semantics of the target is difficult.
 
 **Usually, yes.**
-_Novel_ is usually used as a near-synonym of new, but with a more evaluative tone. Annotate as value-judgement unless it is part of a conventionalised term (relatively rare; e.g. novel coronavirus in outbreak naming). If unsure, check whether the phrase appears as a recognised term in the MeSH controlled vocabulary: https://meshb.nlm.nih.gov/).
+_Novel_ is usually used as a near-synonym of new, but with a more evaluative tone. Annotate as value-judgement unless it is part of a conventionalised term (relatively rare; e.g. _novel coronavirus_, _novel object recogbition_). If unsure, check whether the phrase appears as a recognised term in the MeSH controlled vocabulary: https://meshb.nlm.nih.gov/).
 
-Watch out for possible exceptions such as “novel object recognition”: in neuroscience, Novel Object Recognition is a standard behavioural task/paradigm and is often treated as a conventionalised label (frequently capitalised). In that use, novel is closer to “new/unfamiliar to the animal” (technical/literal) than evaluative praise.
-
-If unsure, apply the gratuitous test at Step 3a. Many instances of _novel_ will fufill both criteria.
+If still unsure, apply the gratuitous test at Step 3a. Many instances of _novel_ will fufill both criteria.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
