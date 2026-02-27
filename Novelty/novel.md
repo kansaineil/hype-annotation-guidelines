@@ -9,30 +9,31 @@ parent: Novelty
 **Note:** Because novel is highly contextually diverse, annotating based on the semantics of the target is difficult.
 
 **Usually, yes.**
-_Novel_ is usually a near-synonym of _new_, but with a more evaluative tone. Annotate as value-judgement when can be replaced by _new_ **AND/OR** the use if gratuitous (Step 3a). Note that the context may already imply newness (e.g. reveal, discover, insight)
+_Novel_ is usually a near-synonym of _new_, but with a more evaluative tone. Annotate as value-judgement when can be replaced by _new_ **AND/OR** the use if gratuitous (Step 3a). Note that the context may already imply newness (e.g. reveal, discover)
 
 **Sometimes, no.**
-Annotate as non-value judgement when cannot be replaced by *new* (this is typically is(semi-) technical usages, and meaning 'idenitfied for the first time') **AND** it is non-gratuitous.
+Annotate as non-value judgement when it means 'previously unidentified' **AND** it is non-gratuitous.
 
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *We propose to resolve these conflicts with a **novel** approach that directly combines anatomical pathway tracing ( Aim # 1 ) and physiological receptive field mapping ( Aim # 2 ) to define areas .* (value judgement [& gratuitous])
+- *We propose to resolve these conflicts with a **novel** approach that directly combines anatomical pathway tracing ( Aim # 1 ) and physiological receptive field mapping ( Aim # 2 ) to define areas .* (value judgement - can be replaced by 'new' & gratuitous)
 
-- *First , side population ( SP ) stem cells appear to differentiate into cardiomyocytes in our mouse infarction model , but mitoses in these immature cardiomyocytes are only noted in the transgenic mice , thus possibly uncovering a **novel** mechanism to induce hyperproliferative progenitor cells .*  (value judgement [& gratuitous])
+- *First , side population ( SP ) stem cells appear to differentiate into cardiomyocytes in our mouse infarction model , but mitoses in these immature cardiomyocytes are only noted in the transgenic mice , thus possibly uncovering a **novel** mechanism to induce hyperproliferative progenitor cells .*  (value judgement - gratuitous as 'uncover' implies new)
 
-- *This application provides a **novel** and comprehensive mechanism to address these needs through research and education .*  (value judgement [& gratuitous])
+- *This application provides a **novel** and comprehensive mechanism to address these needs through research and education .*  (value judgement - gratuitous)
 
-- *The main objective of this research is to design **novel** target-oriented antifolates based on biochemical and mechanistic rationales derived from structural and functional information and to study their effects at the cellular and molecular level .*  (value judgement [& gratuitous])
+- *The main objective of this research is to design **novel** target-oriented antifolates based on biochemical and mechanistic rationales derived from structural and functional information and to study their effects at the cellular and molecular level .*  (value judgement - gratuitous as you design soemthing that is new)
 
-- *Under Aim 1 , we will evaluate the immunogenicity and protective efficacy of a **novel** vaccine platform and antigen design in animal models for developing an effective COVID-19 vaccine .*  (value judgement [& gratuitous])
+- *Therefore , there continues to be an urgent need to generate both **novel** vaccine and therapeutic strategies against IAV to prevent and combat large scale outbreaks .*  (value judgement - can be repalced by 'new' AND gratuitous)
 
-- *Therefore , there continues to be an urgent need to generate both **novel** vaccine and therapeutic strategies against IAV to prevent and combat large scale outbreaks .*  (value judgement [& gratuitous])
 
-- *Here we propose to characterize this **novel** prophylactic stroke therapy and demonstrate the efficacy and immune cell activation in the setting of stroke .*  (value judgement [& gratuitous])
+- *Here we propose to characterize this **novel** prophylactic stroke therapy and demonstrate the efficacy and immune cell activation in the setting of stroke .*  (value judgement - gratuitous as it refers back to which one)
 
-- *We have developed a **novel** assay to measure absolute concentrations of sn-1,2-diacylglycerol in tissue culture cells .*  (value judgement [& gratuitous])
+- *We have developed a **novel** assay to measure absolute concentrations of sn-1,2-diacylglycerol in tissue culture cells .*  (value judgement - gratuitous)
+
+- *Under Aim 1 , we will evaluate the immunogenicity and protective efficacy of a **novel** vaccine platform and antigen design in animal models for developing an effective COVID-19 vaccine .*  (judgement - can't be replaced by 'new' AND non-gratuitious as it defines which platform)
 
 </details>
 
