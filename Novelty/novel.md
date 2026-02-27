@@ -9,9 +9,11 @@ parent: Novelty
 **Note:** Because novel is highly contextually diverse, annotating based on the semantics of the target is difficult.
 
 **Usually, yes.**
-_Novel_ is usually used as a near-synonym of new, but with a more evaluative tone. Annotate as value-judgement unless it is part of a conventionalised term (relatively rare; e.g. _novel coronavirus_, _novel object recogbition_). If unsure, check whether the phrase appears as a recognised term in the MeSH controlled vocabulary: https://meshb.nlm.nih.gov/).
+_Novel_ is usually a near-synonym of _new_, but with a more evaluative tone. Annotate as value-judgement when can be replaced by _new_ **AND/OR** the use if gratuitous (Step 3a). Note that the context may already imply newness (e.g. reveal, discover, insight)
 
-If still unsure, apply the gratuitous test at Step 3a. Many instances of _novel_ will fufill both criteria.
+**Sometimes, no.**
+Annotate as non-value judgement when cannot be replaced by *new* (this is typically is(semi-) technical usages) **AND** it is non-gratuitous.
+
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
