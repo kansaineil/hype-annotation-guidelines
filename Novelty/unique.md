@@ -7,31 +7,31 @@ parent: Novelty
 
 ### **1. Value-judgement**  
 
-Revert to general guidelines - focus on 'is the adjective gratuitous'; if 'yes', treat as value judgement.
-Note: this adjective is very contextually diverse and, therefore, guidelines based on semantics are not feasible.
+**Note:** Because unique is highly contextually diverse, annotating based only on the semantics of the target is difficult.
 
-Usually, yes when it suggests “distinctive and therefore advantageous or noteworthy.” ~~ 
-Typical nouns related to (1) resources/positions and (2) scientific contributions/insights:  
-*opportunity, resource, capability, environment, position, setting, program, center, infrastructure, collaboration, expertise, cohort, dataset, platform, perspective, insight, contribution, approach, model, understanding, mechanism, role, interaction*
+**Usually, yes.**
+Unique usually implies “distinctive and therefore noteworthy/advantageous”, especially with abstract or promotional targets (e.g. approach, ability, opportunity, resource, dataset, insight, discovery, program, environment).
 
-Usually, no when it mainly means “one-of-a-kind / non-overlapping / specific” and is applied to a biological, structural, or formally defined entity or process.  
-Typical nouns:  
-*sequence, mutation, variant, strain, receptor, pathway, structure, phenotype, pattern, combination, case, solution, equilibrium, identifier*
+**Sometimes, no.**
+When used contrastively or definitionaly to mean “specific to” - usually in preduicative construction  (e.g. X is unique to Y).
+
+If unsure, apply the gratuitous test (3a).
+If still unclear, check context (3c) for other promotional signals.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *The results of this study will provide rare and **unique** information about the pre-migration experiences of emigrants , provide rigorous a test of secular trends versus acculturation , evaluate a novel conceptual framework , and provide valuable information from which to develop prevention efforts to reduce the burden of obesity and related conditions among an important immigrant population .* (value judgement)
+- *The results of this study will provide rare and **unique** information about the pre-migration experiences of emigrants , provide rigorous a test of secular trends versus acculturation , evaluate a novel conceptual framework , and provide valuable information from which to develop prevention efforts to reduce the burden of obesity and related conditions among an important immigrant population .* (value judgement [& gratuitous])
 
-- *In an effort to develop a **unique** approach to this problem area , we have recently established a murine lung adenoma model in our laboratory -- induced by transplacental exposure to N ,ethylnitrosourea .*  (value judgement)
+- *In an effort to develop a **unique** approach to this problem area , we have recently established a murine lung adenoma model in our laboratory -- induced by transplacental exposure to N ,ethylnitrosourea .*  (value judgement [& gratuitous]
 
-- *We have the **unique** ability to critically evaluate hypotheses concerning oxygen and control of microvascular function by the use of state of the art techniques such as intravital videomicroscopy , in situ microvessel perfusion , preparation of parenchyma free arterioles and measurement of PO2 with oxygen microelectrodes .* (value judgement – evaluates resource)
+- *We have the **unique** ability to critically evaluate hypotheses concerning oxygen and control of microvascular function by the use of state of the art techniques such as intravital videomicroscopy , in situ microvessel perfusion , preparation of parenchyma free arterioles and measurement of PO2 with oxygen microelectrodes .* (value judgement [& gratuitous])
 
-- *Kidney has a **unique** ability of accumulating trimethyllysine .* (non-value judgement – biological process)
+-  *The put operon has a **unique** control mechanism that seems to be mediated by the putA gene product , proline oxidase .* (borderline - value judgement [& gratuitous])
 
-- *The LLC - PK1 cell line is **unique** in its ability to actively transport sugar .*  (non-value judgement – biological process)
+- *Kidney has a **unique** ability of accumulating trimethyllysine .* (non-value judgement [borderline - non-gratuitous - other organs do not have this ability])
 
-- *The put operon has a **unique** control mechanism that seems to be mediated by the putA gene product , proline oxidase .* (non-value judgement – biological process)
+- *The LLC - PK1 cell line is **unique** in its ability to actively transport sugar .*  (non-value judgement [non-gratuitous - other cell lines do not have this ability; some repair necessary])
 
 </details>
 
