@@ -12,7 +12,7 @@ parent: Novelty
 _Novel_ is usually a near-synonym of _new_, but with a more evaluative tone. Annotate as value-judgement when can be replaced by _new_ **AND/OR** the use if gratuitous (Step 3a). Note that the context may already imply newness (e.g. reveal, discover, insight)
 
 **Sometimes, no.**
-Annotate as non-value judgement when cannot be replaced by *new* (this is typically is(semi-) technical usages) **AND** it is non-gratuitous.
+Annotate as non-value judgement when cannot be replaced by *new* (this is typically is(semi-) technical usages, and meaning 'idenitfied for the first time') **AND** it is non-gratuitous.
 
 
 <details markdown="1">
