@@ -6,7 +6,7 @@ parent: Novelty
 ---
 
 ### **1. Value-judgement**  
-**Note:** Because novel is highly contextually diverse, value-judgement based on the semantics of the target is difficult.
+**Note:** Because novel is highly contextually diverse, annotating based on the semantics of the target is difficult.
 
 **Usually, yes.**
 _Novel_ is usually used as a near-synonym of new, but with a more evaluative tone. Annotate as value-judgement unless it is part of a conventionalised term (relatively rare; e.g. _novel coronavirus_, _novel object recogbition_). If unsure, check whether the phrase appears as a recognised term in the MeSH controlled vocabulary: https://meshb.nlm.nih.gov/).
