@@ -6,34 +6,33 @@ parent: Novelty
 ---
 
 ### **1. Value-judgement**  
-Revert to general guidelines - focus on 'is the adjective gratuitous'; if 'yes', treat as value judgement. Note: this adjective is very contextually diverse and, therefore, guidelines based on semantics are not feasible.
+**Note:** Because novel is highly contextually diverse, value-judgement based on the semantics of the target is difficult.
 
-Usually yes when it suggests “new and therefore desirable”. Typical nouns related to (1) methods/technologies and (2) knowledge/ideas:  
-*approach, method, technique, methodology, strategy, protocol, procedure, platform, technology, tool, device, framework, model, hypothesis, concept, paradigm, theory, insight, understanding, discovery, finding, evidence*
+**Usually, yes.**
+_Novel_ is usually used as a near-synonym of new, but with a more evaluative tone. Annotate as value-judgement unless it is part of a conventionalised term (relatively rare; e.g. novel coronavirus in outbreak naming). If unsure, check whether the phrase appears as a recognised term in the MeSH controlled vocabulary: https://meshb.nlm.nih.gov/).
 
-Usually no when it mainly means “newly identified / not previously identified / newly developed” and is applied to a biomedical entity/intervention. Typical nouns:  
-*gene, protein, receptor, ligand, enzyme, kinase, cytokine, peptide, isoform, mutation, variant, RNA, DNA, biomarker, antibody, antigen, virus, compound, agent, inhibitor, drug, vaccine, therapy, treatment, intervention, formulation, regimen, mechanism, pathway, signaling*  
+Watch out for possible exceptions such as “novel object recognition”: in neuroscience, Novel Object Recognition is a standard behavioural task/paradigm and is often treated as a conventionalised label (frequently capitalised). In that use, novel is closer to “new/unfamiliar to the animal” (technical/literal) than evaluative praise.
 
-In very broad terms, the more abstract the target is, the more likely *novel* is to imply a value judgement.
+If unsure, apply the gratuitous test at Step 3a. Many instances of _novel_ will fufill both criteria.
 
 <details markdown="1">
 <summary><em>Examples</em></summary>
 
-- *We propose to resolve these conflicts with a **novel** approach that directly combines anatomical pathway tracing ( Aim # 1 ) and physiological receptive field mapping ( Aim # 2 ) to define areas .* (value judgement – knowledge & possible treatment)
+- *We propose to resolve these conflicts with a **novel** approach that directly combines anatomical pathway tracing ( Aim # 1 ) and physiological receptive field mapping ( Aim # 2 ) to define areas .* (value judgement [& gratuitous])
 
-- *First , side population ( SP ) stem cells appear to differentiate into cardiomyocytes in our mouse infarction model , but mitoses in these immature cardiomyocytes are only noted in the transgenic mice , thus possibly uncovering a **novel** mechanism to induce hyperproliferative progenitor cells .* (value judgement – knowledge & ‘newness’ / ‘surprise’)
+- *First , side population ( SP ) stem cells appear to differentiate into cardiomyocytes in our mouse infarction model , but mitoses in these immature cardiomyocytes are only noted in the transgenic mice , thus possibly uncovering a **novel** mechanism to induce hyperproliferative progenitor cells .*  (value judgement [& gratuitous])
 
-- *This application provides a **novel** and comprehensive mechanism to address these needs through research and education .* (value judgement)
+- *This application provides a **novel** and comprehensive mechanism to address these needs through research and education .*  (value judgement [& gratuitous])
 
-- *The main objective of this research is to design **novel** target-oriented antifolates based on biochemical and mechanistic rationales derived from structural and functional information and to study their effects at the cellular and molecular level .* (non-value judgement)
+- *The main objective of this research is to design **novel** target-oriented antifolates based on biochemical and mechanistic rationales derived from structural and functional information and to study their effects at the cellular and molecular level .*  (value judgement [& gratuitous])
 
-- *Under Aim 1 , we will evaluate the immunogenicity and protective efficacy of a **novel** vaccine platform and antigen design in animal models for developing an effective COVID-19 vaccine .* (value judgement – technology)
+- *Under Aim 1 , we will evaluate the immunogenicity and protective efficacy of a **novel** vaccine platform and antigen design in animal models for developing an effective COVID-19 vaccine .*  (value judgement [& gratuitous])
 
-- *Therefore , there continues to be an urgent need to generate both **novel** vaccine and therapeutic strategies against IAV to prevent and combat large scale outbreaks .* (value judgement – method/approach)
+- *Therefore , there continues to be an urgent need to generate both **novel** vaccine and therapeutic strategies against IAV to prevent and combat large scale outbreaks .*  (value judgement [& gratuitous])
 
-- *Here we propose to characterize this **novel** prophylactic stroke therapy and demonstrate the efficacy and immune cell activation in the setting of stroke .* (non-value judgement)
+- *Here we propose to characterize this **novel** prophylactic stroke therapy and demonstrate the efficacy and immune cell activation in the setting of stroke .*  (value judgement [& gratuitous])
 
-- *We have developed a **novel** assay to measure absolute concentrations of sn-1,2-diacylglycerol in tissue culture cells .* (non-value judgement)
+- *We have developed a **novel** assay to measure absolute concentrations of sn-1,2-diacylglycerol in tissue culture cells .*  (value judgement [& gratuitous])
 
 </details>
 
