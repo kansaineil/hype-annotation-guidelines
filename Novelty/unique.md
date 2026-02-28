@@ -7,7 +7,7 @@ parent: Novelty
 
 ### **1. Value-judgement**  
 
-**Note:** Because unique is highly contextually diverse, annotating based only on the semantics of the target is difficult.
+**Note:** Because unique is very contextually diverse, annotating based only on the semantics of the target is difficult.
 
 **Usually, yes.**
 Unique usually implies “distinctive and therefore noteworthy/advantageous”, especially with abstract or promotional targets (e.g. approach, ability, opportunity, resource, dataset, insight, discovery, program, environment).
